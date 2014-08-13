@@ -1,3 +1,6 @@
-CampusDefender ver1.0.0
-CampusDefender is a free software under the GPL v3.
-End stubborn processes easily.
+CampusDefender
+===================================  
+
+### ver 1.0.1
+
+		使用WindowsAPI清除顽固恶意进程，并将提供系统内存加速功能(Ver 1.0.1)
