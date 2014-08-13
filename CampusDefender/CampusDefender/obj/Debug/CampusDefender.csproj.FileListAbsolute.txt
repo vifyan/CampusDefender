@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2012\Projects\CampusDefender\CampusDefender\bin\Debug\CampusDefender.exe
+D:\Documents\Visual Studio 2012\Projects\CampusDefender\CampusDefender\bin\Debug\CampusDefender.pdb
+D:\Documents\Visual Studio 2012\Projects\CampusDefender\CampusDefender\obj\Debug\CampusDefender.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\CampusDefender\CampusDefender\obj\Debug\CampusDefender.Properties.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\CampusDefender\CampusDefender\obj\Debug\CampusDefender.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\CampusDefender\CampusDefender\obj\Debug\CampusDefender.exe
+D:\Documents\Visual Studio 2012\Projects\CampusDefender\CampusDefender\obj\Debug\CampusDefender.pdb
+D:\Documents\Visual Studio 2012\Projects\CampusDefender\CampusDefender\obj\Debug\CampusDefender.Form1.resources
